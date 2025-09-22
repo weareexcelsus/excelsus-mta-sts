@@ -1,1 +1,2 @@
 /.well-known/mta-sts.txt    /well-known/mta-sts.txt    200
+/.well-known/smtp-tlsrpt.txt    /well-known/smtp-tlsrpt.txt    200
