@@ -1,4 +1,4 @@
-# Excelsus MTA-STS & TLS-RPT
+# Excelsus Mail Policies
 
 This repository hosts the MTA-STS policy and related configuration files for the `excelsus.me` mail infrastructure.  
 It ensures secure email transport by enforcing TLS encryption and providing visibility through TLS Reporting (TLS-RPT).
